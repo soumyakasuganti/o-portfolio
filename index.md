@@ -1,4 +1,4 @@
-## Work
+# Work
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Project 1 Title](/sample_page)
